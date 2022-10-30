@@ -2,7 +2,11 @@ import React from 'react'
 
 function GitTestingFile() {
   return (
-    <div>GitTestingFile</div>
+    <div>
+        
+       
+        <h2> GitTestingFile</h2>
+        </div>
   )
 }
 
